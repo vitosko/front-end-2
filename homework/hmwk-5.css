@@ -7,31 +7,33 @@
     font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT";
     font-size: 100%;
 }	
-.span-1 {
+#first {
 	display: inline-block;
 	padding: 10px 0; 	
 }
 
-.span-2 {
+#second {
 	display: inline-block;
 	padding: 10px 0; 
 
 }
 
-.span-3 {
+#third {
 	display: inline-block;		
 	padding: 10px 0; 	
 }
 
-.span-4 {
+#fourth {
 	display: inline-block;		
 	padding: 10px 0; 	
 }
-.span-5 {
+.by {
 color: #b6b6b6;
+text-decoration: none;
 }
-.span-6 {
+.categ {
 color: #b6b6b6;
+text-decoration: none;
 }
 
 ul.hr li {
